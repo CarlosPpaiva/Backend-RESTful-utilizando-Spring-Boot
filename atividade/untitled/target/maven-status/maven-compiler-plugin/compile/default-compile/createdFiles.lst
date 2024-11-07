@@ -1,0 +1,14 @@
+com\example\Application.class
+com\example\controller\PedidoController.class
+com\example\repository\PedidoRepository.class
+com\example\service\ClienteService.class
+com\example\service\ProdutoService.class
+com\example\model\Pedido.class
+com\example\controller\ProdutoController.class
+com\example\service\PedidoService.class
+com\example\controller\ClienteController.class
+com\example\repository\ClienteRepository.class
+com\example\SwaggerConfig.class
+com\example\model\Cliente.class
+com\example\model\Produto.class
+com\example\repository\ProdutoRepository.class
